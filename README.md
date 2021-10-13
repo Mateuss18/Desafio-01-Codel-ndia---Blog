@@ -35,6 +35,8 @@ Os desafios serão feitos no Figma onde qualquer pessoa pode acessá-lo e até d
 
 ![Desafio 01](https://github.com/targdev/challenges-codelandia/raw/main/image/desafio1.svg)
 
+![Blog - Home (Mobile)](https://user-images.githubusercontent.com/71786964/137046926-8ca7a8a7-989c-4120-8e48-0f5f6d505ff9.png)
+
 Link do desafio no Figma: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndia-Desafios?node-id=0%3A1)
 
 Material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia/blob/main/material-de-apoio/material-de-apoio-desafio01.zip)
