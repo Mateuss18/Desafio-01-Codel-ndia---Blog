@@ -28,7 +28,9 @@
 
 ![Blog - Home (Mobile)](https://user-images.githubusercontent.com/71786964/137046926-8ca7a8a7-989c-4120-8e48-0f5f6d505ff9.png)
 
-Link do desafio no Figma: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndia-Desafios?node-id=0%3A1)
+Link do deploy github pages: https://mateuss18.github.io/Desafio01_Codelandia-Blog/
+
+Figma do desafio: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndia-Desafios?node-id=0%3A1)
 
 Material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia/blob/main/material-de-apoio/material-de-apoio-desafio01.zip)
 
@@ -53,4 +55,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com 💜 by **Codelândia** [Entre na nossa comunidade!](https://discord.com/invite/QevDJqCzaY)
+Feito por Mateus Lopes :D
